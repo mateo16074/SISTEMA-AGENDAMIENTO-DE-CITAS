@@ -1,0 +1,49 @@
+		-----  FUNDACION SALUD PARA TODOS  -----
+Numero de token 1
+Nombre del paciente: Mateo Vaca
+
+Numero de celular: 99259954
+
+Edad: 18
+Peso: 65.00
+Altura: 1.64
+Especialidad: psicologia
+
+Sexo: masculino
+
+
+Fecha: 11/7/2023/10:30
+
+
+Numero de token 2
+Nombre del paciente: Emili Lara
+
+Numero de celular: 998753487
+
+Edad: 30
+Peso: 64.00
+Altura: 1.60
+Especialidad: odontologia
+
+Sexo: femenino
+
+
+Fecha: 20/8/2023/15:00
+
+
+Numero de token 3
+Nombre del paciente: Daniel Lara
+
+Numero de celular: 99345678
+
+Edad: 5
+Peso: 20.00
+Altura: 1.10
+Especialidad: pediatria
+
+Sexo: masculino
+
+
+Fecha: 17/7/2023/9:00
+
+
